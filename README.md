@@ -7,7 +7,7 @@ it contains the following details
 - each quetions have 4 options
 - each quetions carry 5 points
 - no negative points
-- finally grade overall point
+- finally rating
 - end of the quiz game
 
 # requirements
