@@ -9,6 +9,12 @@ it contains the following details
 - no negative points
 - end of the quiz game
 
+# requirements
+- user registration [name] for playing the game
+- quetions assigned with options
+- points assigned for each corerect answers
+- finally grade assigned for over all quiz
+
 # Features
 - improving knowledge
 - learning with entertainment
