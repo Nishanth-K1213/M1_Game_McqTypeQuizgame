@@ -17,7 +17,7 @@ it contains the following details
 - finally grade assigned for over all quiz
 
 # Features
-- improving knowledge
+- improving general knowledge
 - learning with entertainment
 
 # Devoloped By
