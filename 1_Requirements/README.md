@@ -6,4 +6,14 @@
 
 ## Cost and Features
 - this is the cost free gaming project
-- 
+- improving general knowledge
+- learning with entertainment
+
+## SWOT ANALYSIS
+| content | Description |
+|---------| ------------|
+| strength | ----------------- |
+| weakness | -------------------|
+| Opportunity | ---------------- |
+| Threats | --------------------- |
+
