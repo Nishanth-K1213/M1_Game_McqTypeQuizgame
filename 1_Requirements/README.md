@@ -30,3 +30,14 @@
 > and the game is also improves
 > the improvements of knowledge on the user.
 
+## How to Play
+1. Start the game.
+2. Enter your name.
+3. Press key according to the menu :-
+    - 1 to START GAME
+    - 2 to HELP
+    - 3 to HIGH SCORES
+    - 0 to QUIT
+4. A question will be displayed with 4 options. Press the key (1/2/3/4) corresponding to the correct answer according to you.
+5. every correct answer you got 5 point
+6. Answer maximum number of questions correctly to achieve highest scores.
