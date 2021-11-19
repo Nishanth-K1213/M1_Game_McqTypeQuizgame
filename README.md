@@ -10,7 +10,7 @@ it contains the following details
 - finally rating
 - end of the quiz game
 
-# requirements
+# Requirements
 - user registration [name] for playing the game
 - quetions assigned with options
 - points assigned for each corerect answers
