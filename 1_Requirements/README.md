@@ -30,6 +30,23 @@
 > and the game is also improves
 > the improvements of knowledge on the user.
 
+# 4W’s and 1’H
+* This project is to get test the genaaral knowledge of an person.
+* Mainly this project is developed and used to improve of our knowledge.
+* This application is developed using C Programming Language.
+# Detail Requirements
+
+# High Level Requirements:
+     ID                     Description                   Status
+    HLR1                    start game                    Start the game
+    HLR2                    High Score                    Previous highscore
+    HLR3                    Game Help                     To know how to play the game
+# Low Level Requirements:
+     ID                      Description                   Status
+    LLR1                     giving point                  for every correct answer
+    LLR2                     Basic operation               update the next quetions
+    LLR3                     giving finnal rating          end of the game rating the quiz
+    
 ## How to Play
 1. Start the game.
 2. Enter your name.
