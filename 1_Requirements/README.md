@@ -1,20 +1,22 @@
 ## Overview
+the main overview of this miniproject consist of the fallowing points listed below
 - there 20 quetions in the game quiz
 - each quetions have 4 options
 - each quetions carry 5 points
 - no negative points
 - finally rating
 - end of the quiz game
+this project will improves our general knowlege by playing this game.
+
+## Research 
+* this application which is improves the kids general knowledge by playing quiz game instead of playing unnessesary games
+which will be very useful for the users who play.
+
 ## Requirements
 - supported software tool for excuting the code
 - required little bit of memory for the storage 
 - laptop to devolop the code in tools
 - devolpe code for the usee name, Help window, high score window, and exit window
-
-## Cost and Features
-- this is the cost free gaming project
-- improving general knowledge
-- learning with entertainment
 
 ## SWOT ANALYSIS
 | content | Description |
@@ -24,18 +26,12 @@
 | Opportunity | to improve our knowledge by playing this game |
 | Threats | if the code works properly workor not |
 
-## Detail Requirements
-> the quiz game is gives more knowledge 
-> by playing this game. 
-> and the game is also improves
-> the improvements of knowledge on the user.
-
 # 4W’s and 1’H
 * This project is to get test the genaaral knowledge of an person.
 * Mainly this project is developed and used to improve of our knowledge.
 * This application is developed using C Programming Language.
-# Detail Requirements
 
+# Detail Requirements
 # High Level Requirements:
      ID                     Description                   Status
     HLR1                    start game                    Start the game
@@ -46,6 +42,11 @@
     LLR1                     giving point                  for every correct answer
     LLR2                     Basic operation               update the next quetions
     LLR3                     giving finnal rating          end of the game rating the quiz
+
+## Cost and Features
+- this is the cost free gaming project
+- improving general knowledge
+- learning with entertainment
     
 ## How to Play
 1. Start the game.
