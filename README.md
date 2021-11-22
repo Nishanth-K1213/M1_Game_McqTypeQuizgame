@@ -35,3 +35,5 @@ it contains the following details
 
 # Devoloped By
 - [YOGESHA D G]-LTTS Trainee Mysore!
+
+[![C/C++ CI](https://github.com/yogeshadgLTTS/M1_Game_McqTypeQuizgame/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/yogeshadgLTTS/M1_Game_McqTypeQuizgame/actions/workflows/c-cpp.yml)
